@@ -183,9 +183,13 @@ document.addEventListener('DOMContentLoaded', () => {
       if (!resposta.ok) return;                  // mantém o conteúdo estático do HTML
 
       const dados = await resposta.json();
-      if (!Array.isArray(dados.itens) || !dados.itens.length) return;
+      if (!Array.isArray(dados.itens)) return;
 
-      listaNoticias.innerHTML = dados.itens.slice(0, 6).map(cardNoticia).join('');
+      // A curadoria é estreita de propósito: semana sem notícia do escopo
+      // mostra um aviso honesto, não um espaço em branco.
+      listaNoticias.innerHTML = dados.itens.length
+        ? dados.itens.slice(0, 6).map(cardNoticia).join('')
+        : cardVazio();
 
       if (caixaDestaque) {
         caixaDestaque.innerHTML = dados.destaque
@@ -242,6 +246,16 @@ document.addEventListener('DOMContentLoaded', () => {
         <h3 class="destaque__titulo">${esc(n.titulo)}</h3>
         <p class="destaque__meta">${esc(n.fonte || 'fonte externa')} &middot; ${formatarData(n.quando)}</p>
       </a>`;
+  }
+
+  function cardVazio() {
+    return `
+      <div class="vazio">
+        <p class="vazio__titulo">Semana sem novidade do nosso assunto</p>
+        <p>Só publicamos aqui basquete carioca e o oficial brasileiro. Quando não
+           sai nada que se encaixe, a seção fica quieta em vez de encher espaço.</p>
+        <a class="botao" href="#peladas">Ver as quadras do Rio</a>
+      </div>`;
   }
 
   function cardDaCasa() {

@@ -661,11 +661,33 @@ body.pagina-interna .cabecalho .menu-btn span{ background: var(--tinta); }
    12. Notícias — cards montados a partir de dados/noticias.json
    ========================================================================== */
 
+/* Grade elástica: com a curadoria estreita, a seção costuma ter 2 ou 3 cards.
+   Colunas fixas deixariam buraco; assim eles se acomodam e ficam centrados. */
 .noticias{
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 24px;
 }
+.noticias .noticia{ flex: 1 1 280px; max-width: 380px; }
+
+/* Semana sem notícia do escopo — o vazio precisa parecer escolha, não erro */
+.vazio{
+  flex: 1 1 100%;
+  max-width: 620px;
+  margin-inline: auto;
+  text-align: center;
+  padding: 44px 32px;
+  border: 1px dashed var(--borda);
+  border-radius: var(--raio);
+}
+.vazio__titulo{
+  font-family: var(--fonte-titulo);
+  font-weight: 300;
+  font-size: 1.4rem;
+  margin-bottom: 10px;
+}
+.vazio p{ color: var(--tinta-suave); font-size: .95rem; margin-bottom: 18px; }
 
 .noticia{
   background: var(--branco);
@@ -769,7 +791,7 @@ body.pagina-interna .cabecalho .menu-btn span{ background: var(--tinta); }
 }
 
 @media (max-width: 900px){
-  .noticias{ grid-template-columns: 1fr; }
+  .noticias .noticia{ max-width: none; }
   .destaque{ padding: 28px; }
 }
 

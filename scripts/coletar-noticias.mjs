@@ -2,6 +2,10 @@
    Coletor de notícias — Basquete Carioca
    Roda no GitHub Actions, sem nenhuma dependência externa.
 
+   ESCOPO: basquete em geral, de fonte confiável, com o carioca em destaque.
+   A rede é larga para a seção nunca esvaziar; o foco no Rio é preservado
+   pelo selo nos cards e pelo destaque, que só aceita item do Rio de verdade.
+
    Como funciona:
    1. consulta o Google Notícias em dois níveis (núcleo e extra)
    2. aceita apenas item publicado por veículo da lista aprovada
@@ -59,14 +63,18 @@ const FONTES = [
    ========================================================================== */
 
 const CONSULTAS = [
+  // núcleo: o assunto do site, com prioridade na ordenação
   { nivel: 'nucleo', peso: 6, q: '"basquete de rua" Rio de Janeiro' },
   { nivel: 'nucleo', peso: 6, q: 'basquete 3x3 Rio de Janeiro carioca' },
-  { nivel: 'nucleo', peso: 5, q: '"Campeonato Carioca" basquete' },
-  { nivel: 'nucleo', peso: 4, q: 'quadra basquete Rio de Janeiro reforma projeto' },
-  { nivel: 'nucleo', peso: 3, q: 'NBB Novo Basquete Brasil' },
+  { nivel: 'nucleo', peso: 6, q: '"Campeonato Carioca" basquete' },
+  { nivel: 'nucleo', peso: 5, q: 'quadra de basquete Rio de Janeiro' },
+  { nivel: 'nucleo', peso: 5, q: 'basquete Flamengo Botafogo Vasco Fluminense' },
+  { nivel: 'nucleo', peso: 4, q: 'CBB Confederação Brasileira de Basketball' },
+  { nivel: 'nucleo', peso: 4, q: 'NBB Liga Nacional de Basquete' },
   { nivel: 'nucleo', peso: 3, q: 'seleção brasileira de basquete' },
   { nivel: 'nucleo', peso: 3, q: 'NBA basquete brasileiro' },
 
+  // extra: reserva que só ocupa vaga sobrando
   { nivel: 'extra',  peso: 1, q: 'polêmica basquete NBA NBB declaração' },
   { nivel: 'extra',  peso: 1, q: 'ex-jogador de basquete aposentado hoje' },
   { nivel: 'extra',  peso: 1, q: 'celebridade rapper dono time basquete NBA' },
@@ -80,7 +88,9 @@ const DESTINO   = 'dados/noticias.json';
 const EH_BASQUETE = /basquete|basket|streetball|\bnbb\b|\bnba\b|3x3|cestinha|enterrada|\bwnba\b/i;
 
 // origem carioca
-const EH_RIO = /rio de janeiro|carioca|fluminense|madureira|aterro|tijuca|maracan|rocinha|jacarezinho|niter(ó|o)i|baixada|parque ol(í|i)mpico|zona (sul|norte|oeste)/i;
+// Lugares, bairros e clubes do Rio. Os clubes entram porque o basquete do
+// Flamengo é basquete carioca — e o filtro de tema já barrou o futebol antes.
+const EH_RIO = /rio de janeiro|carioca|madureira|aterro|tijuca|maracan|rocinha|jacarezinho|niter(ó|o)i|baixada|parque ol(í|i)mpico|zona (sul|norte|oeste)|flamengo|botafogo|vasco|fluminense/i;
 
 // rua / 3x3
 const EH_RUA = /basquete de rua|streetball|3x3|quadra p(ú|u)blica|pelada|rach(ã|a)o|quadra da comunidade/i;
@@ -227,6 +237,7 @@ async function principal() {
   const extra  = aceitos.filter(i => i.nivel === 'extra').sort(ordenar);
 
   // o destaque só existe se for do Rio de verdade — 3x3 em outro estado não conta
+  // o destaque continua exigindo Rio de verdade — 3x3 em outro estado não conta
   const destaque = nucleo.find(i => i.rio) || null;
 
   const lista = nucleo.filter(i => i !== destaque);
@@ -246,7 +257,8 @@ async function principal() {
     .forEach(([v, n]) => console.log(`      ${String(n).padStart(2)}x  ${v}`));
 
   console.log('\n--- aprovados ---');
-  console.log(`  núcleo: ${nucleo.length}   extra: ${extra.length}   publicados: ${escolhidos.length}`);
+  console.log(`  núcleo: ${nucleo.length}   extra: ${extra.length}   publicados: ${escolhidos.length}` +
+              `   (do Rio: ${aceitos.filter(i => i.rio).length})`);
   escolhidos.forEach(i => console.log(`  [${(i.selo || '-').padEnd(4)}] ${i.fonte.padEnd(20)} ${i.titulo.slice(0, 62)}`));
   console.log(destaque ? `\nDestaque carioca: ${destaque.titulo}` : '\nSem destaque do Rio — a home usa conteúdo próprio.');
 
