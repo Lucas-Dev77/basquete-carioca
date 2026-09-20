@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-19T15:19:32.710Z",
+  "atualizadoEm": "2026-09-20T15:24:03.239Z",
   "destaque": {
     "titulo": "Fluminense Abre Nova Temporada Com Clássico Contra O Flamengo No Basquete",
     "fonte": "Terra",
@@ -10,11 +10,35 @@
   },
   "itens": [
     {
+      "titulo": "Pedro Morais coroa trajetória no São José Basketball com título inédito da LDB – Liga Nacional de Basquete",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1BBRFEzVmhpd2VUUjJROGJJaG5PTG5ZeFJQSXUzVWV0SXpjYlVScmdUc3c2Q1BnUnZwVzVRZnU2bWlELTZCN3JXQ3pvekJJT1ppME1jMnZhY0E5eHIxUWF6dEk0dUotY3l0dk1qMXlWb0N6WVFUM09YSEZaSFVLMjBMUnpvaDhPeE5sajRtQTNsb3VOS3FYbHZ6d01oWHhScWRzUEhzZVJiRGc?oc=5",
+      "quando": "2026-09-20T03:50:25.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "LDB 2026: São José Basketball supera o Corinthians e conquista o título pela primeira vez na história",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTHJNT3N3bmhFcDF2eklBYU1jQ01Sb2NXWUVWeUpKbzRkV0pPakpVRS1INkJGUTZFLXB6Zk5ocnFOUzJKYnVaZzNkRDJJYWZBN0FEVnZFWXNDVnhQcFBUVHN3Zjg5cEswZDlBaUVJV3U2S3ZHUUpOa2dKQmx3MmliU1FfbXZzTFEyTkYyVEV1ejNENmRpM1Eyb1VUbmNtcDdXdElWV2ZkcXJwX3dkclhMV1R1WlNlWUxkWXBVQzA4TldKZURMUzBfag?oc=5",
+      "quando": "2026-09-19T12:52:00.000Z",
+      "selo": null
+    },
+    {
       "titulo": "LDB 2026 – São José Basketball x Minas – 18/09/2026 17:30 – Liga Nacional de Basquete",
       "fonte": "LNB",
       "grupo": "oficial",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMnlJZHJCeXUwNVJtQURVV2tqUGZiVzFkTXJibVUzU0oyUDNmeDBycldFTHc0WTJUZlZ6Tno5UHFVZ241ejlPVlY0TGVOdDNIaGY3TkVzc1FjZGc0WkRTemJVMW5tMmlRNlBHTERGTnRVY3VnQWtsTXNsRXdRdk1YQ1lkOFlsZw?oc=5",
       "quando": "2026-09-19T02:59:57.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "LDB 2026 – São José Basketball x Corinthians – 19/09/2026 19:15 – Liga Nacional de Basquete",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc2JJWTVZVk5MUy1CSU4yWDAxWFk1QmZPTzQ5SWFKcXBqUzg2OGZUVXBfUjg5eVl6VHU0d1dIbDRud2Q3Si1QVnVkUjg1RmNPTjJfZlRmV256V0s0R0hqMEhweXpsdWtKYkV4Wk5raTREUmsteUNVdDhwaE5ZejgycV9hSmtfa2R2OUFQX2NB?oc=5",
+      "quando": "2026-09-19T01:21:26.000Z",
       "selo": null
     },
     {
@@ -34,28 +58,12 @@
       "selo": null
     },
     {
-      "titulo": "Minas mede forças com Peñarol e Fluminense em nova fase da pré-temporada – Liga Nacional de Basquete",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjFzN0lOMDk0Z05QMHhyeVpXMy1qbzVNMTU4WkxINExuLW53dnhwbFZuQjNPaW80bEMxdFdaWFJlZ1o4MFZXN2p5bXU1aTcwYXFQVFdUWG5HR2dVdDR3bVpnZ1ltTEhkR1VYVGxCWi1ucDJRNWdwZzZWdU1EVGRPaVlZc0V0dUxZcGdKTE95RF9HcDlHdUdKSVRNQktuel9tT3Aw?oc=5",
-      "quando": "2026-09-18T06:38:00.000Z",
-      "selo": "rio"
-    },
-    {
       "titulo": "CBB é parceira do COB na realização do basquete nos Jogos da Juventude Caixa 2026",
       "fonte": "CBB",
       "grupo": "oficial",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMjFsRjZJMnI5bUhnMUVuZ1ZhaC01UXJCcGh0bllwdE9NS0l1LXhqdGFHRXM4amxoVHgxNWJtbVF3ZmxRVW5KdVJGVUNrOEhmMklmUU9yVTNMZEZ6ajZRMDdnSFBHeTZxTnRxZjlEYXVMcjhzaHc4SkZ1Qkh6VkNhck56RXBxUHgxNWpkUnBVVlRnUWYtekxaNnhqS1BlMl9TTHhuQXJpU0pxY0dObFcwcjF3RQ?oc=5",
       "quando": "2026-09-17T17:11:10.000Z",
       "selo": null
-    },
-    {
-      "titulo": "LDB 2026: Mogi Basquete supera o Flamengo e conquista o título da Série Prata",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSURoMTVVNi1QSjlUZjlYTVV3NVRPUVVRRmNJTnZSQVQ1bHFMeG1hclZDaF9XYUxGdjllY01tZzMyVGRyeWxPdl9OcGxCaV9FY1JnM3hSblpHVzBrU2d4YkVEaUdzYi13MXhHMU1YQTNIZXRuVjZQd0hTdGl3dkdjbmlDMmZ5TjZSdC1zYVZFemZTN2FNYkZ6dW8xRzJBek9ycFRKVFAyY0I?oc=5",
-      "quando": "2026-09-17T11:34:00.000Z",
-      "selo": "rio"
     },
     {
       "titulo": "LDB 2026: Flamengo e Mogi Basquete vencem semifinais e decidem título da Série Prata",
@@ -71,14 +79,6 @@
       "grupo": "oficial",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQl9CSWt0VHN2dm1JVG5YNnotemdoQzdBNWoyM0l1ZUhBRlBFRm9aay04dWhsT0JqT0FGTFgwVXFBOFRETlNwS3ppdFJYWlR5M2JIbmtTY1ZnS05EWi1iRVoxM2tMTi1oUHhOZ0lVV2FTREJOWlU2RlpjdzNzbE5kQ1ZfMlM1bUJWY2tOZW1JaHVVNTk3OVQ3c2pXWE0xbHdiaFFrQW1zZmVRR2xZak03TThocUVsNUd5U21Jd0pfNi1NSGh6?oc=5",
       "quando": "2026-09-15T17:22:05.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Torneio de Abertura do NBB CAIXA 2026 tem tabela definida; confira grupos e os jogos – Liga Nacional de Basquete",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTnRXY1RtSVZBYlIwb09fNDdVNWJLZWg2MUhoWFBYMVA3MGhSRVhCQXhpZTVCMzV0VTBNb2psdkxzN3lPTXdHemZoaUJweU1BRHZxV2k5NlR6M0s4UzhOOEVJSlFsXzNkOEc2MldaQzZ5ZG1FY0RTWHdVYndIeDN5TWd4RGtEb1FMWXdHemZ3V3Q5eWJwSTV2VWpnOVo2cEZkLXdpb1Q5ZTZ5SzdTTlNoWGpR?oc=5",
-      "quando": "2026-09-15T14:34:00.000Z",
       "selo": null
     }
   ]
