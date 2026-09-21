@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-20T15:24:03.239Z",
+  "atualizadoEm": "2026-09-21T17:50:30.051Z",
   "destaque": {
     "titulo": "Fluminense Abre Nova Temporada Com Clássico Contra O Flamengo No Basquete",
     "fonte": "Terra",
@@ -10,11 +10,27 @@
   },
   "itens": [
     {
-      "titulo": "Pedro Morais coroa trajetória no São José Basketball com título inédito da LDB – Liga Nacional de Basquete",
+      "titulo": "Oito equipes disputam o Torneio de Abertura do NBB CAIXA 2026 entre os dias 6 e 10 de outubro, em Belo Horizonte",
+      "fonte": "CBB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQlZuWFVkd1Z1V2liendmQUJIYTZDaVZXbnZmMUNBNzlSa0ZqTFgzOGt6d3U4YzR1VFJMTjY0ZEJHTkZ1UC04ek0wX18zZmVJd3NlYUNIMDZNbmlTZ2FFenl3blJLY3luaVZlSE1JZWpYR3ZsREhsU2oxalozQjE0RmRzcWYyTlpBTVVkU29uQ1p6eXktLVFSNVd5UnFBcDFNU0hLYjE5azVkY2RnbnJ3aWZBUzVlZDFnU1QwY2syQUtDaXRmWFhPc0JFLWtPUk5KUmpQeWZzRC01UzA?oc=5",
+      "quando": "2026-09-21T16:30:43.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "Thiago Pérez renova e comanda o Cruzeiro Basquete em sua segunda temporada no NBB CAIXA",
       "fonte": "LNB",
       "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1BBRFEzVmhpd2VUUjJROGJJaG5PTG5ZeFJQSXUzVWV0SXpjYlVScmdUc3c2Q1BnUnZwVzVRZnU2bWlELTZCN3JXQ3pvekJJT1ppME1jMnZhY0E5eHIxUWF6dEk0dUotY3l0dk1qMXlWb0N6WVFUM09YSEZaSFVLMjBMUnpvaDhPeE5sajRtQTNsb3VOS3FYbHZ6d01oWHhScWRzUEhzZVJiRGc?oc=5",
-      "quando": "2026-09-20T03:50:25.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFRGckV2bGVFNEI0QkpFWjlNVUVjdHkzaG1CbzBYMHo3NF9oYXhHNEVnZjF2enp6ajdqejRZcUVienNiS21FVlRqTlE5czFhNm1qV2Z2eUZzUGk2NGlNTFc4SUxjclNhSTBwb0ZpTS1xNTV2dUk3N2plZlFtNS1IRERaM1dSbGFtS1pTbUJYdDlGOWFMZTJyUWNYaVR3S1FheXRzV2gycVdJUXRNNGozS2Z0VlI2aWM?oc=5",
+      "quando": "2026-09-21T13:46:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "Vitinho Brandão é o novo reforço do Sesi Franca para a temporada 2026/27 do NBB CAIXA",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVndXZzZWa2N3SHF0Vjc3bDQxblNyR1BtTDVGSl9nM00tUVJxTnBNZk9DYW9iNlUxTkVWRlpZdE1wX3RrYmwyckg3OXhRSFMtT0tyN0l0U0d6Q1RvWGNfOUNKMFE4UkFqMDhRRmt0UU9tVFVNSW5felplVVAycUY1dTg0RXFlM2RzMzAzaTVfeXYyMW9XR1Z0N1d4Nkh0T3ZzbnpnMlpVc1RBcVdWNTNLbGw5c0M?oc=5",
+      "quando": "2026-09-21T12:42:00.000Z",
       "selo": null
     },
     {
@@ -26,7 +42,7 @@
       "selo": null
     },
     {
-      "titulo": "LDB 2026 – São José Basketball x Minas – 18/09/2026 17:30 – Liga Nacional de Basquete",
+      "titulo": "LDB 2026 – São José Basketball x Minas – 18/09/2026 17:30",
       "fonte": "LNB",
       "grupo": "oficial",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMnlJZHJCeXUwNVJtQURVV2tqUGZiVzFkTXJibVUzU0oyUDNmeDBycldFTHc0WTJUZlZ6Tno5UHFVZ241ejlPVlY0TGVOdDNIaGY3TkVzc1FjZGc0WkRTemJVMW5tMmlRNlBHTERGTnRVY3VnQWtsTXNsRXdRdk1YQ1lkOFlsZw?oc=5",
@@ -34,7 +50,7 @@
       "selo": null
     },
     {
-      "titulo": "LDB 2026 – São José Basketball x Corinthians – 19/09/2026 19:15 – Liga Nacional de Basquete",
+      "titulo": "LDB 2026 – São José Basketball x Corinthians – 19/09/2026 19:15",
       "fonte": "LNB",
       "grupo": "oficial",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc2JJWTVZVk5MUy1CSU4yWDAxWFk1QmZPTzQ5SWFKcXBqUzg2OGZUVXBfUjg5eVl6VHU0d1dIbDRud2Q3Si1QVnVkUjg1RmNPTjJfZlRmV256V0s0R0hqMEhweXpsdWtKYkV4Wk5raTREUmsteUNVdDhwaE5ZejgycV9hSmtfa2R2OUFQX2NB?oc=5",
@@ -63,22 +79,6 @@
       "grupo": "oficial",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMjFsRjZJMnI5bUhnMUVuZ1ZhaC01UXJCcGh0bllwdE9NS0l1LXhqdGFHRXM4amxoVHgxNWJtbVF3ZmxRVW5KdVJGVUNrOEhmMklmUU9yVTNMZEZ6ajZRMDdnSFBHeTZxTnRxZjlEYXVMcjhzaHc4SkZ1Qkh6VkNhck56RXBxUHgxNWpkUnBVVlRnUWYtekxaNnhqS1BlMl9TTHhuQXJpU0pxY0dObFcwcjF3RQ?oc=5",
       "quando": "2026-09-17T17:11:10.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "LDB 2026: Flamengo e Mogi Basquete vencem semifinais e decidem título da Série Prata",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYmtGTEVlLVk5dXJheU9LVUpodGRVYThwbUF1dHZlQjQ3OUpSWHo3enpSWHNma0RIRjFxYmZRYi1sUnV0MGhReFplM2tIOGxhcVFLREt4NjRZYWdYd3hHTm02OE1NQkhMZk94UWhkUGh0cEFZNThmTjhvRnhYSlRJRFRFQWlMdWpMeURmd3N6cW5TU2ZCcEhfUFRHT3pqekVuMWZtanBHY2g0OENNYmE2NG53?oc=5",
-      "quando": "2026-09-16T11:37:00.000Z",
-      "selo": "rio"
-    },
-    {
-      "titulo": "CBB e IBB lançam programa gratuito para capacitar 1.200 profissionais do basquetebol brasileiro",
-      "fonte": "CBB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQl9CSWt0VHN2dm1JVG5YNnotemdoQzdBNWoyM0l1ZUhBRlBFRm9aay04dWhsT0JqT0FGTFgwVXFBOFRETlNwS3ppdFJYWlR5M2JIbmtTY1ZnS05EWi1iRVoxM2tMTi1oUHhOZ0lVV2FTREJOWlU2RlpjdzNzbE5kQ1ZfMlM1bUJWY2tOZW1JaHVVNTk3OVQ3c2pXWE0xbHdiaFFrQW1zZmVRR2xZak03TThocUVsNUd5U21Jd0pfNi1NSGh6?oc=5",
-      "quando": "2026-09-15T17:22:05.000Z",
       "selo": null
     }
   ]
