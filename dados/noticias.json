@@ -1,14 +1,22 @@
 {
-  "atualizadoEm": "2026-09-28T19:12:34.415Z",
+  "atualizadoEm": "2026-09-29T17:35:15.595Z",
   "destaque": {
-    "titulo": "Liga Ouro 2026/27 começa em novembro e contará com Basquete Assis, Brusque Basquete, Conta Simples Rio Claro, Grupo BT/Clube de Campo de Tatuí, Fluminense e Olympico Club",
-    "fonte": "CBB",
+    "titulo": "Campeonato Carioca de Basquete retorna após três anos com triangular entre Botafogo, Flamengo e Fluminense",
+    "fonte": "LNB",
     "grupo": "oficial",
-    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOWXpBTk9URmpzUmRaUHhkYnJZb1RqZlRRV0JZQVpaZVBkTjZGRklabDR2UEZWZmtUV1RNWk01QVd0ODFYbVVXMTdPdmxraW40eFBxSG44cnpoVWJkVzJvM0dNOXlJY2pYYkFWb1Bwb2xHbU55bzdpX3RqMEJlaHJQbkMwT1g4OEJRRjRnVUJkZFJjVW1ZNUpTVVkxY0F2bG40NUZzQ3Rjb29jN19HN0xrRFN4NzJCYnNHa2RzeWlMeEFFUXcyR0I2VzBrX0VXa0FEcTNkNmJwc3laYTAwZDE3S09XT3p3LVRQcFlUTnBDdjJEY2RjMllnYlV3YjV2VlpPT21JeWY4STFNb0lwRlFZNVk4OUZQVl9qU3VEVGxxZDVNQQ?oc=5",
-    "quando": "2026-09-28T16:19:34.000Z",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaHZvNzdDOFNLTHQxQW5FdUhueVBFd1Z2TVF2ZkMtWk5FUlJwU0RFbnZISFBvMVZVZGxzX2JNcmtFbTk0cTVRd29NM1NnUzkxR3dLZ29uQTBvWThtcmNQWnhmWW54WXMzNEExS1l4ZjByNjlQc1JpY3Nkcm91YTZ5WDdDeGNrTDNaU2FTVXV5ZFpFZ1VvNUtuWUtzRVVqeFVCZGpQS0NiRGtnbldmanJNdlRWUUMyZGs2X19OUlpteVpYcHVKaUh2eEdkbXlCcms?oc=5",
+    "quando": "2026-09-18T07:00:00.000Z",
     "selo": "rio"
   },
   "itens": [
+    {
+      "titulo": "NBB CAIXA 2026/27: jogadores retornam a antigos clubes para escrever novas histórias – Liga Nacional de Basquete",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUktkTGJ5Qy1vU3FQdnp6RFl0X2RQWEM1cklEUzE0dVNBVUYwU0t0a1RiaFJyTzM0eEp2N1g2UXFXSjV3SkZaT2JJU21qYUFoSWNEdHd0UXdRdU1GeFh5UkZpU05FNktxdFdYd3Y5UEhOTVFiMlVEUjlZM0RqMFhmQTdDVXNtVkl5QjFBQjM5Z3h6TmxVYmFIbDhLMF9EaGJDS2dLXy1vNmxMRlpBejhZYk53?oc=5",
+      "quando": "2026-09-29T13:23:00.000Z",
+      "selo": null
+    },
     {
       "titulo": "NBB CAIXA e NBA: veja os 15 brasileiros que atuaram nas duas ligas – Liga Nacional de Basquete",
       "fonte": "LNB",
@@ -58,12 +66,12 @@
       "selo": null
     },
     {
-      "titulo": "Campeonato Carioca de Basquete retorna após três anos com triangular entre Botafogo, Flamengo e Fluminense",
-      "fonte": "LNB",
+      "titulo": "Oito equipes disputam o Torneio de Abertura do NBB CAIXA 2026 entre os dias 6 e 10 de outubro, em Belo Horizonte",
+      "fonte": "CBB",
       "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaHZvNzdDOFNLTHQxQW5FdUhueVBFd1Z2TVF2ZkMtWk5FUlJwU0RFbnZISFBvMVZVZGxzX2JNcmtFbTk0cTVRd29NM1NnUzkxR3dLZ29uQTBvWThtcmNQWnhmWW54WXMzNEExS1l4ZjByNjlQc1JpY3Nkcm91YTZ5WDdDeGNrTDNaU2FTVXV5ZFpFZ1VvNUtuWUtzRVVqeFVCZGpQS0NiRGtnbldmanJNdlRWUUMyZGs2X19OUlpteVpYcHVKaUh2eEdkbXlCcms?oc=5",
-      "quando": "2026-09-18T07:00:00.000Z",
-      "selo": "rio"
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQlZuWFVkd1Z1V2liendmQUJIYTZDaVZXbnZmMUNBNzlSa0ZqTFgzOGt6d3U4YzR1VFJMTjY0ZEJHTkZ1UC04ek0wX18zZmVJd3NlYUNIMDZNbmlTZ2FFenl3blJLY3luaVZlSE1JZWpYR3ZsREhsU2oxalozQjE0RmRzcWYyTlpBTVVkU29uQ1p6eXktLVFSNVd5UnFBcDFNU0hLYjE5azVkY2RnbnJ3aWZBUzVlZDFnU1QwY2syQUtDaXRmWFhPc0JFLWtPUk5KUmpQeWZzRC01UzA?oc=5",
+      "quando": "2026-09-21T07:00:00.000Z",
+      "selo": null
     },
     {
       "titulo": "Fluminense Abre Nova Temporada Com Clássico Contra O Flamengo No Basquete",
@@ -72,14 +80,6 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORFJ0eDhMTDAtNGFaYlNQbUpvcndmNTlZLXhnOW1XcHBYa3RBRlZ6STNEZUFTZ3FhTW14YXExekhJcVY3MGc5SXYyaE1sSHpISm02TzhZN2plOF9ZcFhqUHVveURINVFreDFUamJ6Mk9ybmhyUF81VFdrdUxtX1cxeUxxc3VWWUV3NVZ3Y0E4VjluVkFTN1cxSWJfeVNZSnh0cmFGVGd4VHQzS1I2WS1vUGprLWlOMWh0UXluTlV3WHNzTzRndl9PRk1mc0x3Qmk5V3VNb3RtVWNWNzEtd25pZjZTTW5KYm5lQWtwT0FNbmx0X0dqTkN5QXdjZw?oc=5",
       "quando": "2026-09-18T07:00:00.000Z",
       "selo": "rio"
-    },
-    {
-      "titulo": "CBB é parceira do COB na realização do basquete nos Jogos da Juventude Caixa 2026",
-      "fonte": "CBB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMjFsRjZJMnI5bUhnMUVuZ1ZhaC01UXJCcGh0bllwdE9NS0l1LXhqdGFHRXM4amxoVHgxNWJtbVF3ZmxRVW5KdVJGVUNrOEhmMklmUU9yVTNMZEZ6ajZRMDdnSFBHeTZxTnRxZjlEYXVMcjhzaHc4SkZ1Qkh6VkNhck56RXBxUHgxNWpkUnBVVlRnUWYtekxaNnhqS1BlMl9TTHhuQXJpU0pxY0dObFcwcjF3RQ?oc=5",
-      "quando": "2026-09-17T17:11:10.000Z",
-      "selo": null
     }
   ]
 }
