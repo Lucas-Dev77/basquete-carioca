@@ -1,20 +1,44 @@
 {
-  "atualizadoEm": "2026-09-30T17:34:30.602Z",
+  "atualizadoEm": "2026-10-01T17:58:47.949Z",
   "destaque": {
-    "titulo": "Campeonato Carioca de Basquete retorna após três anos com triangular entre Botafogo, Flamengo e Fluminense",
-    "fonte": "LNB",
-    "grupo": "oficial",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaHZvNzdDOFNLTHQxQW5FdUhueVBFd1Z2TVF2ZkMtWk5FUlJwU0RFbnZISFBvMVZVZGxzX2JNcmtFbTk0cTVRd29NM1NnUzkxR3dLZ29uQTBvWThtcmNQWnhmWW54WXMzNEExS1l4ZjByNjlQc1JpY3Nkcm91YTZ5WDdDeGNrTDNaU2FTVXV5ZFpFZ1VvNUtuWUtzRVVqeFVCZGpQS0NiRGtnbldmanJNdlRWUUMyZGs2X19OUlpteVpYcHVKaUh2eEdkbXlCcms?oc=5",
-    "quando": "2026-09-18T07:00:00.000Z",
+    "titulo": "Flamengo e Fluminense fazem final do Carioca de Basquete",
+    "fonte": "LANCE!",
+    "grupo": "jornal",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSGpPeVJ0OC1Fa3A5dmpJMlVPQU1Mb2dEbEY5LUk0WXJkc2FPOVR4N1Q4U1gyVC11akd3NjlyUTNrYk5Vc0FMbzNfZ2RmUWNjR3FVMnh4M2dXSERwbmw4Tl9Sa2lRZlRBeGloTmV1N1JES09ELTk5LUFWenRlV24xcmhaWllCZU0tTDVGNndMYVVuaGNFQzZfS3pWRUc1YTJqRGc?oc=5",
+    "quando": "2026-10-01T15:06:13.000Z",
     "selo": "rio"
   },
   "itens": [
+    {
+      "titulo": "Finais estaduais movimentam o basquete brasileiro em outubro",
+      "fonte": "CBB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaXhUZ3lfbGFNY1dDazNZbVhKcjJsQkxwTHprZy1DekdEQTZOeHZWSndlOVpfWUNKOGc1TFZvd0VRVGt5MXFQem43dkN0VWtCZ1plTjR1dlhFTFAtbG9vQUMtUTVHd3VmNDFRazZ0S3BmV1BYN3FUcHJQYXRjcGk1X01tTVpqOHB0Skh6YTM1RnBvZ2p5NVZn?oc=5",
+      "quando": "2026-10-01T14:54:15.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "Equipe de transmissão do NBB CAIXA se reúne para alinhar transmissões antes do início da temporada 2026/27",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORldHemZiRlRVVzZkTC1lNjBBSDhwM1pZaUNEaTkwUjU2ZGRWdFZKbV9DOTVfU1dpbkttcnQzY3ozY0FvbWpYZjFSd2V1a2E4ZmwzNFRVaXA4SU5zV3EzSlNGeUhydHFEYzA4YU5CdlE3MUgtNjdxaGFVX011Nk8xV3p1WVR1TDFZUnFTNWhHblBMNC03NEpSS3p0MHlRdnpXYXZVQUlTbnU3WmtnQV80Z0tZZUUwaXE5Qm5IeWloQ3hockNWY3hpYXRlandscWZQ?oc=5",
+      "quando": "2026-10-01T13:53:00.000Z",
+      "selo": null
+    },
     {
       "titulo": "Cruzeiro combina experiência e juventude na montagem do elenco para sua segunda temporada no NBB CAIXA",
       "fonte": "LNB",
       "grupo": "oficial",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMk9tODlmX0dlSTQtY05jYkZvQ3V1QmF2TTByQjFjUnJPTHM1bUtPYWx0SktUaUtuRjRlVEtLWG81RVNsbXd5VHlsTmpDYm5IR1B2NW5acXk2SjJQc0JQR05IWEJ4QktUblRqdW1NaFI2d1VXS2YxcjdJZF9ObGNoZ3A1V29FUVNWR2R2RzVsekwxa1QwdkVCWXo3TDk5SnZhV19GYUVuNG1Yei1qcU5XNWpfQ0M0R29vRHJtUnZuNjFmMVdhY0FaRUU1MA?oc=5",
       "quando": "2026-09-30T14:22:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "JBL celebra 80 anos reforçando apoio ao esporte como patrocinadora do NBB CAIXA",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1E3TklmcnF2eDNYTmZmLVhkM0U2TDBfck1JUXFwd3JPWHFDSE5FY2RIdWp5ejMwWUJqQWZuNzVkMlVNTGNHUEdpTWJrcmRaTU56YXd4Tmd2Wm1hbWxnMURoTGhmOXpOWFN5SjZDWW9QZlg2d0lUTFZnZGpadWEyX2tSTk03enQwSGZ3XzNZRkVRMWVEM3FBRGp2aGY1amtWOU1IMGNjM1JvTGZj?oc=5",
+      "quando": "2026-09-30T08:00:00.000Z",
       "selo": null
     },
     {
@@ -42,43 +66,19 @@
       "selo": "rua"
     },
     {
+      "titulo": "Botafogo Basquete reformula elenco e dá salto de investimento",
+      "fonte": "LANCE!",
+      "grupo": "jornal",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0trcWFSMHd4MlBFb083bjQ4aXZOSlA3VFJ0azRON3FoV1dVWkNsMUtnd252WlByNmc2N19maFZvOHlLZlcxXzJNdVJSb1R4SnJEVFlyb2hzcE9SbGpYd2FEeFNXaG8xM0FRWm1YRzlNRHlkcGtZM0RhRDcyWmt2OWFGR0hCRXl6ZVVtaDlObUlvaUlwRGgzTGs5b1djWkRuYnc?oc=5",
+      "quando": "2026-09-22T07:00:00.000Z",
+      "selo": "rio"
+    },
+    {
       "titulo": "NBB CAIXA renova acordo de transmissão com a Xsports para a temporada 2026/27",
       "fonte": "LNB",
       "grupo": "oficial",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX09XVkI2ZnFPc29xc0VvamhFQWdETEp3Z1hKRTYxZDlzS2t6TVB4YlVIM010UU9POU5WSlBGTEt2U0dLTlFzUmpWcm1DbXl5VDJra24zcnJOYUhOVHRwbjZlNEQtT2tnMnZHN0tJSFZFYWt4QlpPcUlGTWc0cnVKcV9xTlhfWlAzY3FVbjh3eHlUVUNBQXN0SXExTWZ2QmNocWZlUmREWk1KUQ?oc=5",
-      "quando": "2026-09-22T13:00:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "São José Basketball vence o Corinthians e conquista pela primeira vez o título da LDB",
-      "fonte": "CBB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWxYU0JaX3VQVnpqd0dfdzZtYzZxdDVCSXd0ZVlwVElGUHFUUFFLUDNDT04tN2RPUjNpTk5pc0U0Z0dSUmJ1MkJldE1BMXplaEtNYVRCeXRqQ1hoMjVteFhjTTdpd0d5WFRJN0pROERzWFpkZ2doNkJ0NFJSUXlZSWlyNmVEeWlDVDMzdDhvYkZEWnBaUVlQZE5OVUhuMEhXNzNNSVV2ejFnazFvSEJ5Yng0eVRCdjU2?oc=5",
-      "quando": "2026-09-21T15:55:44.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Oito equipes disputam o Torneio de Abertura do NBB CAIXA 2026 entre os dias 6 e 10 de outubro, em Belo Horizonte",
-      "fonte": "CBB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQlZuWFVkd1Z1V2liendmQUJIYTZDaVZXbnZmMUNBNzlSa0ZqTFgzOGt6d3U4YzR1VFJMTjY0ZEJHTkZ1UC04ek0wX18zZmVJd3NlYUNIMDZNbmlTZ2FFenl3blJLY3luaVZlSE1JZWpYR3ZsREhsU2oxalozQjE0RmRzcWYyTlpBTVVkU29uQ1p6eXktLVFSNVd5UnFBcDFNU0hLYjE5azVkY2RnbnJ3aWZBUzVlZDFnU1QwY2syQUtDaXRmWFhPc0JFLWtPUk5KUmpQeWZzRC01UzA?oc=5",
-      "quando": "2026-09-21T07:00:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Fluminense Abre Nova Temporada Com Clássico Contra O Flamengo No Basquete",
-      "fonte": "Terra",
-      "grupo": "jornal",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORFJ0eDhMTDAtNGFaYlNQbUpvcndmNTlZLXhnOW1XcHBYa3RBRlZ6STNEZUFTZ3FhTW14YXExekhJcVY3MGc5SXYyaE1sSHpISm02TzhZN2plOF9ZcFhqUHVveURINVFreDFUamJ6Mk9ybmhyUF81VFdrdUxtX1cxeUxxc3VWWUV3NVZ3Y0E4VjluVkFTN1cxSWJfeVNZSnh0cmFGVGd4VHQzS1I2WS1vUGprLWlOMWh0UXluTlV3WHNzTzRndl9PRk1mc0x3Qmk5V3VNb3RtVWNWNzEtd25pZjZTTW5KYm5lQWtwT0FNbmx0X0dqTkN5QXdjZw?oc=5",
-      "quando": "2026-09-18T07:00:00.000Z",
-      "selo": "rio"
-    },
-    {
-      "titulo": "CBB é parceira do COB na realização do basquete nos Jogos da Juventude Caixa 2026",
-      "fonte": "CBB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMjFsRjZJMnI5bUhnMUVuZ1ZhaC01UXJCcGh0bllwdE9NS0l1LXhqdGFHRXM4amxoVHgxNWJtbVF3ZmxRVW5KdVJGVUNrOEhmMklmUU9yVTNMZEZ6ajZRMDdnSFBHeTZxTnRxZjlEYXVMcjhzaHc4SkZ1Qkh6VkNhck56RXBxUHgxNWpkUnBVVlRnUWYtekxaNnhqS1BlMl9TTHhuQXJpU0pxY0dObFcwcjF3RQ?oc=5",
-      "quando": "2026-09-17T17:11:10.000Z",
+      "quando": "2026-09-22T07:00:00.000Z",
       "selo": null
     }
   ]
