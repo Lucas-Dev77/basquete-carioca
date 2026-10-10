@@ -1,14 +1,38 @@
 {
-  "atualizadoEm": "2026-10-09T17:56:28.898Z",
+  "atualizadoEm": "2026-10-10T16:55:45.732Z",
   "destaque": {
-    "titulo": "Torneio de Abertura NBB CAIXA 2026 | Grupo B | Botafogo 69 x 89 Minas Storm",
+    "titulo": "Torneio de Abertura NBB CAIXA 2026/2027 – Flamengo x Minas – 09/10/2026 17:00",
     "fonte": "LNB",
     "grupo": "oficial",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcURXWGlrR3hYcjZkTFVTSE5TaFBDTWhTZ3NQM2pFRU8wd3ZlWTlyWXk3cThjLTdmbnlMdTF4V2puOHpPalZudHE0VWVZcXRyRDVEczkxWFQ0eE9GWk5sVUVCYm5HZ3BIdDdXZEZxakpiMmNIOGdGQ1l0MURyenJXRU1uYmIwaklvT1FUbVFkbVlwS0JEWGFxemhWUzRKOEh3Q3c?oc=5",
-    "quando": "2026-10-07T10:15:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUVlTbWlMTEpzeFJMMjM0bk5KdG5iSGx1RUZYT2hJTVBreFprU1lGRElVb0I1T3ljdWEwZkFaVWRkei1wUDFTS2E5eTJUelR2MXZVWEJNd3Y4NzdtTFRJS1JpZHI5d0pzbzFvSDY3Sm5VRmdZNExLbzdBMnk4dlZWV19CeFNzRF9McmdzRHBnaENiWmZtaDVoUnFyb0JPemZq?oc=5",
+    "quando": "2026-10-09T14:22:36.000Z",
     "selo": "rio"
   },
   "itens": [
+    {
+      "titulo": "Piauiense faz história e se torna o primeiro brasileiro a apitar na NBA",
+      "fonte": "CNN Brasil",
+      "grupo": "jornal",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR1BoOU9YWExlWDFHNHZkTG1Uekg1bjJmUDBSVWlsajVwNUNhcHU0XzdHUWNSN1ZNdEJzeUwtMmVBQUFNRjRQbUdMUGdqcGxuejl6M3MtcHVDWVpaUl9LZ2hQYkRhb19LMUFxQzA4ZEVWZHZ2bVl0VjBLSXJsRWNOcWtMdFZGSExsZF9WcDVnMVlRaUhBUnp6dFJjOUZXbC11a1pGQkVQWVkyOHZ2R3hvcjFTTHFsb3dJOE9v?oc=5",
+      "quando": "2026-10-09T20:52:43.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "Vítor Galvani exalta Tiago Splitter na NBA e projeta futuro no basquete",
+      "fonte": "LANCE!",
+      "grupo": "jornal",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenJJc3BaOVJKaG5tUTRfMGxqaGlGMkU4X3FvQnZvNTJnU0hDdXY3VWJFeE1OeTduMFVZZVBDNm5VM3BWejI3SEhZbDBwbnhwRU5pUW1MN3lOWU00d3o4R25UM1NaZEROcmRTZmRmUExuUUg3T0p2MUV6OUZ3N0haTEtvYzh1QmlQM3ZMUi1MSlZaSEk4eW1KMXhOWFpnQW5zNG9tWVJ6dVo?oc=5",
+      "quando": "2026-10-09T18:51:29.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "Bicampeão do NBB CAIXA, David Nesbitt reforça o Pinheiros para a temporada 2026/27",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNEpxeFVLSU1wZG8zWFF1RUlKbEVyZnN2NHh1Y2ZuY3BGUVllTmdFVFU4d2Q3TmhCM3BhdDhVc25QVjlCVEM3eVRRWUFWbmIteVJZcFNOLTNOcldTcnJJY2F4YnJBaFk4U01RLWJmaTZCaDVIQm4ydFM0VkpmX0tiU0lGeG41VzJrZXdIalZvNW9HNVk4WTdoMnpBWDQxVWNnekR5RkdDV2hkdFJyb2ZZ?oc=5",
+      "quando": "2026-10-09T10:01:00.000Z",
+      "selo": null
+    },
     {
       "titulo": "NBB CAIXA 2026/27 terá 100% dos jogos transmitidos e amplia alcance do basquete brasileiro",
       "fonte": "LNB",
@@ -26,60 +50,36 @@
       "selo": null
     },
     {
+      "titulo": "Torneio de Abertura NBB CAIXA 2026 | Grupo A | Itatiaiuçu Cruzeiro 71 x 80 CAIXA/Brasília",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYmk4RnlMUHpPbl81d09NZE5ZTG5zZVpNMTFBQkRwZy1LcGZ0cVdhUFZNQ3JPMjBvaWdPVmtaaV9RQURvZjNPNUpDb18tdEFISGs3UG0tQzNGX29hRDVsOGJ6YXo2ckFGc1ZUV0lFdk1nenNtVkF4cnJlcy1idXRNVVpxMG5Ic0ZSR2tnRmtrZUczbXBxbzJ4LVlVN3lpX3VqNkdST2sydlo1VjRDS3FsNTM0dFc?oc=5",
+      "quando": "2026-10-07T13:04:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "Torneio de Abertura NBB CAIXA 2026 | Grupo B | Botafogo 69 x 89 Minas Storm",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcURXWGlrR3hYcjZkTFVTSE5TaFBDTWhTZ3NQM2pFRU8wd3ZlWTlyWXk3cThjLTdmbnlMdTF4V2puOHpPalZudHE0VWVZcXRyRDVEczkxWFQ0eE9GWk5sVUVCYm5HZ3BIdDdXZEZxakpiMmNIOGdGQ1l0MURyenJXRU1uYmIwaklvT1FUbVFkbVlwS0JEWGFxemhWUzRKOEh3Q3c?oc=5",
+      "quando": "2026-10-07T10:15:00.000Z",
+      "selo": "rio"
+    },
+    {
+      "titulo": "Paulistano anuncia Richard Udoagwa, MVP da LDB 2026, como reforço para o NBB CAIXA 2026/27",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblFSYk1qaGZsR0FWVVRNRFRmdXF4SEo0T3dOOWRHRVNsZXpXNEwtcnJpc3Zia3lhOTZNdVRWR2Q3SnE3NW9JY2F6YnZyQzNRSEc5bGx3YW01UjQza1phLW8wTUJtRVhrSFRnSzhnRUdhSElNMEtMT2J1Z3RKVEZiSEx6M2tlbHFUbU45YTcxSXE4WnlxOEdIcDBkOVBKc2l6aDB6dGxuVjJIRFJHN2R6dGhMd18zR084?oc=5",
+      "quando": "2026-10-07T06:17:00.000Z",
+      "selo": null
+    },
+    {
       "titulo": "Torneio de Abertura NBB CAIXA 2026 | Grupo B | Grupo BT/Clube de Campo de Tatuí 63 x 90 Flamengo",
       "fonte": "LNB",
       "grupo": "oficial",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVUZCemowaTA2NFhxLVpEUm5SYXFJUnM5LU5DMFRCX180MlA1ZVZwMGdpRktuMnhaUlFtRnRWZTFRRklfUHRoTmdjaFp5ekRvakVQcWxYeTNodjZnWDlTSVUtZHRqb3BFejZDM01PVGFtb3dfX1VmcWFXbm1vMzNrRDI3N291U0tsXzNJWTNvYWhFb3VoR0lnSGpZdnRaUEZlUWNHMmRWeHltVE5Ldl9ZUXB4NGRERTVZS3I5amFR?oc=5",
       "quando": "2026-10-07T04:27:00.000Z",
       "selo": "rio"
-    },
-    {
-      "titulo": "LeBron James se coloca como maior da história do basquete: “Sem dúvida”",
-      "fonte": "CNN Brasil",
-      "grupo": "jornal",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcW1jMmdoUUtYVFA0NnVmeXN5dlZLZ0NWOXozZnZ3a0U0UWVfSkQwTmcyd25SYXNXWXhBdTd4aUlqTWhNN21SRzZaNXdwTGp3RHpzYTZMRXZSMlJkXzIxSmJ4SXJ6UEhwcTRDWmxvVV9YNmJob2lJMmQ5ZEpGY1dfeUVaZzhwcFJuZm81MGJ2b2JMUW5ldUhKU2M2UmpaeWttLVZOWXFRTzQwVjIweTNGMlh6VVp2bGc?oc=5",
-      "quando": "2026-10-06T07:00:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Ingressos para o Torneio de Abertura NBB CAIXA já estão à venda; confira",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbm1sZERqQzREYzRxLVI3OEk1U3dCdXZTdmd2OWkyUFVlaHk0S25VR1RqLVRnMTRkRmk2RXVYX3ViNWNVSDVYMlAybjBlWXROckRHeEx2dWFfenZUd3BINkoyOXk3ZFZwS2FVVllxWkctVVVuRXY3OXgwd000czczYzRZZFBDTENZZThmbEVQSk11TkhQOEdOeHcxaGo1YTNvLXc?oc=5",
-      "quando": "2026-10-05T12:17:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Torneio de Abertura NBB CAIXA 2026 reúne oito equipes em primeiro teste da temporada",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVEx0S01pc3NiQ3dScU0xeUVEbmNTay1qRWcyQlBXM1MyVl82a3FhUGRULXd4c3l1ZU9BajhzOXV6UmdsWmJGQy1GQ2NJdWUyZTloQlppWEdyVnpEMUdVNlhod3lSNHF3dHpGMk5xdm9CWXprQXdRZXJBeWkxbEQxSFRsMkdkTEQ1UTR5cTRaOVI1UHJ0ZEZIY293bi1oeFVxMXJudllqWFYtcGJ1Vi1mT0RRdw?oc=5",
-      "quando": "2026-10-05T07:18:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Mogi Basquete supera o Independiente de Oliva e fecha Grupo A da Liga Sul-Americana com 100% de aproveitamento",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXBIa2NpR1BFYmxGcDJKcDBrU1FJLVNYMXUyMnpYeW9xak41ajBhQWlILVh3MVFmNkNwS3F2ZTdoaDNDZ21pS1hTOU5GWjJ2M0RkRlF1MlFla3pTRDFCcnViLTBIbDBBd1JNWkRZNkRidVZDX0Nwd2ZuTmtNR2VrRGJXNXNqNk45QVpVNUdyRFdVZjJMSkk0c3VRTzFMS0RlcVRzeHNZdHY3S01lZ1ZjWGd0SlpsZXdBWGpudm5JaVVuYUNiVXN3anE4Mk5XVzkwcGdodA?oc=5",
-      "quando": "2026-10-04T14:31:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Mogi Basquete acelera no terceiro período, vence Importadora Alvarado e chega à segunda vitória na Liga Sul-Americana",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPalMzNUIxRVh0aTlYODZGR0M3clFTNE56bW9EVXB5Q09MT3RTTjE3X2NGal82NnJVcVFIMkRjb2puZGhRMTJGM3B5WVRFZm4xVzB4SWFjb0ZfOGc0T0VxUXc1dUV1WU91endjZUQ5bzZlV2FicU0tRlhaVW96STlOcEdaRjdicnpsWEpncmlkVEFYSDNITU5mUGI1VzRtVkJOdFpGd013MTVZMy1NUnd4bmd3dk05SzVISDY1alN6dUdKVUs2RjJoRFFJbHdzWTVMQXRPZ2J5dHNJemJFb1E?oc=5",
-      "quando": "2026-10-03T10:58:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Seleção Brasileira de basquete volta ao Ibirapuera para a janela de novembro das Eliminatórias da Copa do Mundo",
-      "fonte": "CBB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNkhXRnlsUjhWc3VVYVFseWhla0t3VVhSbnBsZ1EzTEdCMmk5RkQ5ZVZpUE1RU0Q4S0lBMDllM0kyVEVxNzFJSFNQNU92X3BkZkotZmlZXy1lX0Z3RUVmLTNoZFVGOVREZnc1VTJGQUZrWWFUOU1XWTE2UEJESTVJYUFtV1kzRk1kLXEzTWdKelZac2lQcWViZnprMWNIRTI5dEVfNzQ3bGNBaFJxZTF3a2daTk9ieDZwb1JiTjh2TlRkbDJmV2dka3dYUFpURDBnVG5IQU1Ud0p2Tnc?oc=5",
-      "quando": "2026-10-02T18:06:47.000Z",
-      "selo": null
     }
   ]
 }
