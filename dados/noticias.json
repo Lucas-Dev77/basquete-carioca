@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-26T18:12:06.863Z",
+  "atualizadoEm": "2026-10-27T17:26:04.611Z",
   "destaque": {
     "titulo": "NBB CAIXA 2026/27 | Pato Basquete 89 x 88 Botafogo",
     "fonte": "LNB",
@@ -9,6 +9,38 @@
     "selo": "rio"
   },
   "itens": [
+    {
+      "titulo": "Mapa do NBB CAIXA 2026/27: saiba quais os estados e cidades com mais atletas nesta temporada",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUlMR2xLUE9zSWtnNHJlTkNmb0pqQXB3XzhtdENSX2V5NmQyWGFmZmIwQ3lJbHpydVlFc1NqeVROcW1IYllDNXh0RTEwSXJWazJWVzIyS0kwMEY0NG5YZU5PS3ZleXgyZlRldVg3YngtX2pPVDViOTVxUUxkT25tMk5qOVpLSDdoZjVaNGc0X2RBYm42SE9DSFJ4YU1YOVJTZi1YcW9nLXFhejBmR0hVdldyQUF1WmpmV3NVYg?oc=5",
+      "quando": "2026-10-27T16:12:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "NBB CAIXA 2026/27: Kauan Raymundo, do CAIXA/Brasília, é eleito o destaque da primeira semana",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDdhSk8tUW5lTEhhTkpWUlBRcm4yOGVDbnVTRnBjQkgxUGhYNFBxYXZldUtielpfSVU1UWdKX1I3ZEE4VUtzOTRVM2NtQkl2QUhKVlE0OFpDTlhKQVNySGtscmVEdWUtcTl4Q3hkeHZQeEpYZ19OMUl1ZFZkaEZiVF9ObkpGc3pJZndPQnAzLWdIblZjbUdqWDNTMmRrTEFFRUF1NG1vclVhR2RZWU8yOVkxUFowQURFRHc?oc=5",
+      "quando": "2026-10-26T18:18:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "NBB CAIXA 2026/27 | Mogi Basquete 78 x 70 Unifacisa",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmZfTk96dkNSeWU3U29WcElSbGhvVUdZRUZ6anptdHZLQmViRUxXb2VjeVpHeXY2ZDd3cEFZal9rUlIzRlIxU2pOUWxCdm03Q1piLXpzTWZ6T1A4XzNvRlRZWGRGZUJ3UUpwdUtJY2JlYUNZUlFWWFZBV0EwamxwaWZQSG0?oc=5",
+      "quando": "2026-10-26T13:14:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "NBB CAIXA 2026/27 | Corinthians 78 x 48 Sesi Franca – Liga Nacional de Basquete",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHdxVGJDNE9tQWs3c0d5ejlQTWo3MFFzclBwTG9hdXlHcndpd3RDTlpUd3Z2ZXhUUzdzZktGa2FfTThlQnlucENoWjNJcVA1dXJ6VlVnOEptWUV6d3pldlFlMWM3enEtWWJFMVNQLWpFNERMbkVERVg0MEc4VVN4dE01M2c?oc=5",
+      "quando": "2026-10-26T12:45:00.000Z",
+      "selo": null
+    },
     {
       "titulo": "Sesi Franca une juventude e experiência para construir elenco que sonha com hexacampeonato do NBB CAIXA",
       "fonte": "LNB",
@@ -47,38 +79,6 @@
       "grupo": "oficial",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd1lXb2VHcWJrcDZqVzNZTEE5NVM4THpCX0V5UW9iMlVMYmRTZ21PUklrM292dVVxS3hFY05aNk5DbkxNaEcxQ3RkaC1rU3hRWTdkaFZYVnNMTjY0LUlCMDdPV0xiWnR3TnlnRktYYzI2LXpwbWpla0RMbTNCQVpyQ0JNVGRhUmM?oc=5",
       "quando": "2026-10-24T04:43:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Unifacisa se aproxima de melhor início no NBB CAIXA e projeta evolução do elenco na temporada",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTTV4SVctYV9kYVVDYkxjTWlkbTd4TTktdllIT1hCQXBlZ3dwUDViMDFWVEhZQklNQUdaaXUyQ0xTWWx5Zk0yOG9vMVNWRWoxOXRtZ0F1QnExdTFsOHk4eWpLYjN0bS1ERDZTMmRDSzZGUG5QYjRWaFduMnl4OThyT2p6d1F6MEFtakJwN3N5M1ZRc014SDJKbHJOcWplUWgxYWNkT0E3b2FYWW5aVUt1YnRQcGwzREcyX2JhblBEMA?oc=5",
-      "quando": "2026-10-23T15:04:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "NBB CAIXA 2026/27 | Bauru Basket 61 x 79 Mogi Basquete",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeTF0OTl4N1ZocjJ4aVEzYWFiTzlucS1yc0x6RmhfV3IySFRYa09qRWJpazZ0TU5rQkh1aVR1bUZ0UkYySksyUkNWazFFR25kZXhwT1Fxbm9na3BCT0hZOENvdFdUalpja2l2UGFMNEdHM1F4VkpkTms4OVh3R2xDM0pFN29jNVRF?oc=5",
-      "quando": "2026-10-23T12:33:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Golden State Warriors x Memphis Grizzlies: horário e onde assistir à NBA",
-      "fonte": "CNN Brasil",
-      "grupo": "jornal",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFVRdmhQSXFsZ3QweXdpZlB3cVBBN1BEdnN6ZWhzMTZlQzVnMklvNUN0Z3hsSUpUb1pwbTFqYVFOay1RMDhyU0Jnal9RNUpmcXB6UFhHVk0zMXRTM0RoSkF2RDI2MFVyMTByWXBQLWNWVTBqeFZvX1k1U1JjcmdyRmV1dWs1MVJVbF96cUNfQUZKZjdXVlJncTVINkN6bk1kcnpGNExibDd5bjJMU2RQMW9wdjFnTkZZTzBn?oc=5",
-      "quando": "2026-10-23T19:00:34.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Basquete Cearense x Pinheiros | Melhores Momentos | NBB CAIXA 2026/27",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmh1NXVDNEFCRG5Ec1VPOHhDZUlRZGRIZGdxTGgxTnRSS2lhay1vdXZVLWR0czdjblFBNFY1ZUdYX0pUdENTQjhsdExqM2p5dTFMQ1Y3ZE04Rm9fMmJOV1NHR1duRHpSN3c4NldJNk16U0lCR2V5YUpsdHNkcDJDN1BfLVNSOHZHYTczWS1XSlMxemlpeFJZ?oc=5",
-      "quando": "2026-10-23T07:00:00.000Z",
       "selo": null
     }
   ]
