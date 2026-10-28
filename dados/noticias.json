@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-27T17:26:04.611Z",
+  "atualizadoEm": "2026-10-28T17:52:43.314Z",
   "destaque": {
     "titulo": "NBB CAIXA 2026/27 | Pato Basquete 89 x 88 Botafogo",
     "fonte": "LNB",
@@ -10,11 +10,51 @@
   },
   "itens": [
     {
+      "titulo": "NBB CAIXA 2026/27 reúne atletas de dez países; conheça o mapa internacional da temporada",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWGJmUkduczB5Y2ZvbHBvRlByTURldW9STHBwdGIzVEItV2V4WFA3TzBBTjlNN2hJZlJHUENMNzUwVy1pbGRVRWZ3bjNoa3prbExBQ0F2aHlMX05SREUxRzBuZVloVDNOVHZxQURmdDBfSzlUenA5c1FuVk5aSXhGLUw4SHo5b3BaV09NdzhNUnNSMEQtNDFpX2d6UzczM0h5MTBPUTV3RGp6eFpoMGJFaFFEY3VpUm8?oc=5",
+      "quando": "2026-10-28T15:22:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "NBA: Tatum decide, Lakers são derrotados e Knicks vencem após confusão",
+      "fonte": "CNN Brasil",
+      "grupo": "jornal",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGV1RHVUWjRMQnZ3bG91QXljSWJPcW85Z2hHdUExSWFNc0c2Z0N5YmpPM01zYnJ3M2ZmUzVtNmRFR1pZVUc1dkQ1ZVo2T3pJV3JFRHhFOFJSQzZYNmpyWlNiWm9nWnVYU3RzZ1RUaVVTTGxaYnNuaERYcDFvMThSdHUyem1fNjhQQ0ZsZnhKYmxvekN3UzgwVC1HLXotMHBaNHEtb1RqcllRVW9rZHVwYWFGNEZfS1U?oc=5",
+      "quando": "2026-10-28T13:16:30.000Z",
+      "selo": null
+    },
+    {
       "titulo": "Mapa do NBB CAIXA 2026/27: saiba quais os estados e cidades com mais atletas nesta temporada",
       "fonte": "LNB",
       "grupo": "oficial",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUlMR2xLUE9zSWtnNHJlTkNmb0pqQXB3XzhtdENSX2V5NmQyWGFmZmIwQ3lJbHpydVlFc1NqeVROcW1IYllDNXh0RTEwSXJWazJWVzIyS0kwMEY0NG5YZU5PS3ZleXgyZlRldVg3YngtX2pPVDViOTVxUUxkT25tMk5qOVpLSDdoZjVaNGc0X2RBYm42SE9DSFJ4YU1YOVJTZi1YcW9nLXFhejBmR0hVdldyQUF1WmpmV3NVYg?oc=5",
       "quando": "2026-10-27T16:12:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "NBB CAIXA 2026/27 | Pinheiros 75 x 63 Ceisc/União Corinthians – Liga Nacional de Basquete",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMl9FVnViNVhsbFBZTzJZNUdzODNRcVlENURmTGRqU0RfQXlzX2ZCWUI0Y0ZtTXJiRTRxbXVvdERZVW9RWXNvbms2UGhzWDM1ZFBoejJqSEtlaktJZVBXS0NFVjRVXzlhT2NTa2duOV9iTVQtUFU0Q1dDYklLRHpMUi10VFIxd1R6aHVGLURQdlhEZw?oc=5",
+      "quando": "2026-10-27T13:54:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "NBB CAIXA 2026/27 | Itatiaiuçu Cruzeiro Basquete 80 x 89 CAIXA/Brasília",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDhacjkyX1dPTlRqeW1pSFVzVlJ2TWQxMl9uM2l3bC1LcTRUM2lxRHN5amUwVFRyVVAza3VNZlBTOHBLOW1yd1RQYS0ySmdGRFhnWG0takI3Vjh3djhaeGRub2x5NTk4MEZTWU41N0dVa1RnQmRCRm15ODVia1RYaGhYalVBLUtUTE80RjdXVFdSaTBsajlJSDNxLVVMWHc?oc=5",
+      "quando": "2026-10-27T12:27:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "NBB CAIXA 2026/27 | Minas Storm 86 x 65 Pato Basquete",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeG53bGx3bVM5aFZkYml0LXBwVDBYNGNTMXZNYlRBRXZVZGplVDBMZUJfTkQyRnh6RVVCV09zYjlaV3c2NnBZLWIydDRzY2VmU0pNVXpKM25NWDlfcm1JZmwtSVpGM2tnRXNocmJYTlRZMDZfdGFQdEFrb0wtZjBhRXB1dlpNWkE?oc=5",
+      "quando": "2026-10-27T12:03:00.000Z",
       "selo": null
     },
     {
@@ -39,46 +79,6 @@
       "grupo": "oficial",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHdxVGJDNE9tQWs3c0d5ejlQTWo3MFFzclBwTG9hdXlHcndpd3RDTlpUd3Z2ZXhUUzdzZktGa2FfTThlQnlucENoWjNJcVA1dXJ6VlVnOEptWUV6d3pldlFlMWM3enEtWWJFMVNQLWpFNERMbkVERVg0MEc4VVN4dE01M2c?oc=5",
       "quando": "2026-10-26T12:45:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Sesi Franca une juventude e experiência para construir elenco que sonha com hexacampeonato do NBB CAIXA",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVTFzSldreXUzR1JfVmZMd3E5Wk1ya2xvRE5ZVWxpSVB5MzJ5NmduNVJJd3JsQkV4RUVpZEF3SmdNZTFzQnlySmlMdWZKTkZUVTNZdXJmbmZJUWdYaHA4ZjFJYTU0dzBIWnJhamI4OUp4TFVVTmRaUlFrc2tHRlBUWnN0dmZJQW4yQmxLb3VxNWFOVWFNa2xDc3FrUThZeC1tclZsOUE1eE5KRXRtWkhCYzhGZm50RUxpWkRPUE8zNVFBYWJEYVY1Y1gzRmg?oc=5",
-      "quando": "2026-10-26T10:43:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "NBA: Jalen Williams sofre grave lesão na perna e deixa jogo de maca",
-      "fonte": "CNN Brasil",
-      "grupo": "jornal",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQkVEVmlXRlluMTJ0WUNKMWVyeHpyV3ZQaGh1ZTYxOFYxUWpJREljczJKVUNPYVVIMlMtYXRLVm96bXdSZlFuaDJiZkNpXzROX05VY1g2Rm83SVk5U2dnbVZVQWZaN0h6ckRqOUJveDVScDNuUk9zb2FSUnFjczA3Z1VBWFVaR0psc2YwNXJUOG5venFDdWU3NDJXaVhrQ0FsVDBJb2tiTklPYzJEck9zeDF4Yng?oc=5",
-      "quando": "2026-10-26T12:22:02.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Onde assistir ao NBB CAIXA 2026/27: agenda de transmissões da semana – Liga Nacional de Basquete",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMUJNdmJUS0lNdWoxbnZhRDJYV3VPc3NmWTR0WmtNVVhJbTkxNHp6Q2RLOTBpUkw5eUUxYkgxd1g1R3BLejk1bkZLQzlwSklkVkFyTnNrTGktanY0QTBSb3JOWGVuZ1hHZW04ZFpwMW1URzFLcmh4d3FjZUIxbkVmTVZBM0xkOFlnRy02azhvcUtqTGNfMlNPWDJBYjYzdk0?oc=5",
-      "quando": "2026-10-25T01:11:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Franck Kamgain se torna primeiro francês do NBB CAIXA em estreia pelo Pato Basquete e faz história na liga",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNm5LbTJVN2N1U0NwOG9DYUJYV0Y5ZFZPaHltRTlxNlNGamlNZlc0U3Rscm4xblAxVXBBUkRMVGxlY2ZyS3U3b3J5d3BzcjNEUUZsQ0pzSG9YTk5KZEpvcU1tcHprajBpYXdBelMxZnN6S1BYWGpDenZja1NUdkJBR1FYcURraGRsUk9pelVmb196WWJmTlpFQVUwX0RTNFg2Zy1iZ2lFSVBNOTg1ZG1wUFZNaWpVN2JzelptQWVURnkxT2dHT2pyMXZweVBiZWpU?oc=5",
-      "quando": "2026-10-25T00:00:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "NBB CAIXA 2026/27 | CAIXA/Brasília 91 x 73 Paulistano – Liga Nacional de Basquete",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd1lXb2VHcWJrcDZqVzNZTEE5NVM4THpCX0V5UW9iMlVMYmRTZ21PUklrM292dVVxS3hFY05aNk5DbkxNaEcxQ3RkaC1rU3hRWTdkaFZYVnNMTjY0LUlCMDdPV0xiWnR3TnlnRktYYzI2LXpwbWpla0RMbTNCQVpyQ0JNVGRhUmM?oc=5",
-      "quando": "2026-10-24T04:43:00.000Z",
       "selo": null
     }
   ]
