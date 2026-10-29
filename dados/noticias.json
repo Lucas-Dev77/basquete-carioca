@@ -1,14 +1,38 @@
 {
-  "atualizadoEm": "2026-10-28T17:52:43.314Z",
+  "atualizadoEm": "2026-10-29T17:59:29.951Z",
   "destaque": {
-    "titulo": "NBB CAIXA 2026/27 | Pato Basquete 89 x 88 Botafogo",
+    "titulo": "NBB CAIXA 2026/27 | Botafogo 84 x 82 Caxias do Sul – Liga Nacional de Basquete",
     "fonte": "LNB",
     "grupo": "oficial",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaDNzenVhZVFHOG5rckJRbDBRVElQZUlFS21nZ1RWZVRGdEtXZVRna2VzNGVoMS1kYW0yeGRBSFBkSHFoczZSV2RMdF8wdVVncGZBLU1RWWRiZjB1Y0JDWnRlX0J3Uk84dmgzZEdEb0lHb0syQ0NqLWcyV2s4WW5VYy1Ucw?oc=5",
-    "quando": "2026-10-24T12:14:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWJBVWwtNWMtMXpMYWM2MHNVZGJFaWtQVkxOdDNpQjZQQ2pSdlg0VkRwbEFvcFNZYm8wZnhwNEVDU0ZOejZfZ3VCVTkxSktrVUlZU1d5ZU1pYWdvU2lIRVpDZjVORWxiTTJUM2FreFlnb1RrNUFNZHROY3NXRVlKUEZSbw?oc=5",
+    "quando": "2026-10-28T13:20:00.000Z",
     "selo": "rio"
   },
   "itens": [
+    {
+      "titulo": "Duelo dos invictos: Minas Storm e CAIXA/Brasília se enfrentam em momento de destaque no NBB CAIXA",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNW1saVQxOWdraUFkMmdVTmlpTGJzdnpkTE84LWF2TlRPVDVrM1lIR1dRdWVPSWR5RzdRZjl1cU5nYml4UWlNNV9rZzlOVXlBallFYWlLdDZBU2ZxR1huSXdaY1RibW12ZERkbmRuRGR2aFhyaEVpWW1ZZ0JPcEgyRzVEV1VTNnU3NFl0UHdHMXYyY0xrcUsxVGM4aVYxZm9mQ2NfLTVHR3NHT3k5d0NTNU5oWDJFS2pBN3NkRHFXeFZOckU?oc=5",
+      "quando": "2026-10-29T12:45:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "CBB encerra quarta etapa de Camp Sub-15 com jovens prospectos do basquete masculino",
+      "fonte": "CBB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWXZUbkNMUXE0UTYxS1FmekNPcG5Qc1NGNGpaU2dUcVY4eVAyV3RlWEVISXBrQ1ctMEZtVGtYd3hnMi02elpHcU40ZEwxS1hRa01QSTlfOU5yZkpEajVEZ053Ukxla3VNR1I5T1pnbVdvZ0R2Z3NzcGwyZFYxRlFJRGp1ZE9HRG0yUkJZWmlBVzZVZ0g3Zm9UZjVXN05kX3VjNFBMcHlwQ05wRmd5UXVZNnRWRHJoUQ?oc=5",
+      "quando": "2026-10-29T14:11:18.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "Minas Storm se reforça com Santiago Scala, tricampeão do NBB CAIXA, e amplia elenco na temporada",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONDNWZVM4RWtjQ29OLVNlSGhBRElzN0dpSEdQRlNYaDROYS1fa081Yzh5TVdPdXNJTVBzNF9IWnF0ZnI1YjhxMVN6Q0ZnQTZfaUJEajlEWVVSdWZrczJsa0ZXQlNLZGt0amw5d3NRRVU3VVIwczV3VXVNQ3laX3RWb3F5akRRV3Y4eUdfSUlzV1FOU3RkY2RWanN1Z1lkdlppeTc0NmJWYlJ0LUZ5dVdYTDZhdG4?oc=5",
+      "quando": "2026-10-28T23:11:00.000Z",
+      "selo": null
+    },
     {
       "titulo": "NBB CAIXA 2026/27 reúne atletas de dez países; conheça o mapa internacional da temporada",
       "fonte": "LNB",
@@ -18,11 +42,35 @@
       "selo": null
     },
     {
-      "titulo": "NBA: Tatum decide, Lakers são derrotados e Knicks vencem após confusão",
-      "fonte": "CNN Brasil",
-      "grupo": "jornal",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGV1RHVUWjRMQnZ3bG91QXljSWJPcW85Z2hHdUExSWFNc0c2Z0N5YmpPM01zYnJ3M2ZmUzVtNmRFR1pZVUc1dkQ1ZVo2T3pJV3JFRHhFOFJSQzZYNmpyWlNiWm9nWnVYU3RzZ1RUaVVTTGxaYnNuaERYcDFvMThSdHUyem1fNjhQQ0ZsZnhKYmxvekN3UzgwVC1HLXotMHBaNHEtb1RqcllRVW9rZHVwYWFGNEZfS1U?oc=5",
-      "quando": "2026-10-28T13:16:30.000Z",
+      "titulo": "NBB CAIXA 2026/27 | São José 83 x 97 Unifacisa – Liga Nacional de Basquete",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QbVhCZjVuZ24xamZuX0lqdm9WVXVhWmVnUFlrQnhNbVdHYjNLWHZKTm56QjVJakFvR0tKVGlKU0x5TDJRM0hoVVI1S1NVTWJxY3phOWd0eTVONjkxMHBFUHRRZ1lUT19wajJrRWxxSnRUd2VsbXJmMS1jRHZPUQ?oc=5",
+      "quando": "2026-10-28T12:47:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "NBB CAIXA 2026/27 | Paulistano 65 x 62 Sesi Franca – Liga Nacional de Basquete",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWXhxckE1NzU5VWZISkZZd2o5Q2FrLTJzOVd5QkJQemV2Y002anBrT3dweGFScnhjT2tUUnptdktxRWVmOFhkaWVwVWFvTDdlb0tfaGRMd1Y2bzQ3Y0pxOWp4cHRmQW5EMGFCY0hEVDFHUm4xYXU5XzRJRlVXdVpjWE03MA?oc=5",
+      "quando": "2026-10-28T12:22:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "NBB CAIXA 2026/27 | Itatiaiuçu Cruzeiro Basquete 80 x 89 CAIXA/Brasília",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDhacjkyX1dPTlRqeW1pSFVzVlJ2TWQxMl9uM2l3bC1LcTRUM2lxRHN5amUwVFRyVVAza3VNZlBTOHBLOW1yd1RQYS0ySmdGRFhnWG0takI3Vjh3djhaeGRub2x5NTk4MEZTWU41N0dVa1RnQmRCRm15ODVia1RYaGhYalVBLUtUTE80RjdXVFdSaTBsajlJSDNxLVVMWHc?oc=5",
+      "quando": "2026-10-28T00:28:25.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "NBB CAIXA 2026/27 | Minas Storm 86 x 65 Pato Basquete",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeG53bGx3bVM5aFZkYml0LXBwVDBYNGNTMXZNYlRBRXZVZGplVDBMZUJfTkQyRnh6RVVCV09zYjlaV3c2NnBZLWIydDRzY2VmU0pNVXpKM25NWDlfcm1JZmwtSVpGM2tnRXNocmJYTlRZMDZfdGFQdEFrb0wtZjBhRXB1dlpNWkE?oc=5",
+      "quando": "2026-10-27T21:36:57.000Z",
       "selo": null
     },
     {
@@ -31,54 +79,6 @@
       "grupo": "oficial",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUlMR2xLUE9zSWtnNHJlTkNmb0pqQXB3XzhtdENSX2V5NmQyWGFmZmIwQ3lJbHpydVlFc1NqeVROcW1IYllDNXh0RTEwSXJWazJWVzIyS0kwMEY0NG5YZU5PS3ZleXgyZlRldVg3YngtX2pPVDViOTVxUUxkT25tMk5qOVpLSDdoZjVaNGc0X2RBYm42SE9DSFJ4YU1YOVJTZi1YcW9nLXFhejBmR0hVdldyQUF1WmpmV3NVYg?oc=5",
       "quando": "2026-10-27T16:12:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "NBB CAIXA 2026/27 | Pinheiros 75 x 63 Ceisc/União Corinthians – Liga Nacional de Basquete",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMl9FVnViNVhsbFBZTzJZNUdzODNRcVlENURmTGRqU0RfQXlzX2ZCWUI0Y0ZtTXJiRTRxbXVvdERZVW9RWXNvbms2UGhzWDM1ZFBoejJqSEtlaktJZVBXS0NFVjRVXzlhT2NTa2duOV9iTVQtUFU0Q1dDYklLRHpMUi10VFIxd1R6aHVGLURQdlhEZw?oc=5",
-      "quando": "2026-10-27T13:54:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "NBB CAIXA 2026/27 | Itatiaiuçu Cruzeiro Basquete 80 x 89 CAIXA/Brasília",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDhacjkyX1dPTlRqeW1pSFVzVlJ2TWQxMl9uM2l3bC1LcTRUM2lxRHN5amUwVFRyVVAza3VNZlBTOHBLOW1yd1RQYS0ySmdGRFhnWG0takI3Vjh3djhaeGRub2x5NTk4MEZTWU41N0dVa1RnQmRCRm15ODVia1RYaGhYalVBLUtUTE80RjdXVFdSaTBsajlJSDNxLVVMWHc?oc=5",
-      "quando": "2026-10-27T12:27:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "NBB CAIXA 2026/27 | Minas Storm 86 x 65 Pato Basquete",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeG53bGx3bVM5aFZkYml0LXBwVDBYNGNTMXZNYlRBRXZVZGplVDBMZUJfTkQyRnh6RVVCV09zYjlaV3c2NnBZLWIydDRzY2VmU0pNVXpKM25NWDlfcm1JZmwtSVpGM2tnRXNocmJYTlRZMDZfdGFQdEFrb0wtZjBhRXB1dlpNWkE?oc=5",
-      "quando": "2026-10-27T12:03:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "NBB CAIXA 2026/27: Kauan Raymundo, do CAIXA/Brasília, é eleito o destaque da primeira semana",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDdhSk8tUW5lTEhhTkpWUlBRcm4yOGVDbnVTRnBjQkgxUGhYNFBxYXZldUtielpfSVU1UWdKX1I3ZEE4VUtzOTRVM2NtQkl2QUhKVlE0OFpDTlhKQVNySGtscmVEdWUtcTl4Q3hkeHZQeEpYZ19OMUl1ZFZkaEZiVF9ObkpGc3pJZndPQnAzLWdIblZjbUdqWDNTMmRrTEFFRUF1NG1vclVhR2RZWU8yOVkxUFowQURFRHc?oc=5",
-      "quando": "2026-10-26T18:18:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "NBB CAIXA 2026/27 | Mogi Basquete 78 x 70 Unifacisa",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmZfTk96dkNSeWU3U29WcElSbGhvVUdZRUZ6anptdHZLQmViRUxXb2VjeVpHeXY2ZDd3cEFZal9rUlIzRlIxU2pOUWxCdm03Q1piLXpzTWZ6T1A4XzNvRlRZWGRGZUJ3UUpwdUtJY2JlYUNZUlFWWFZBV0EwamxwaWZQSG0?oc=5",
-      "quando": "2026-10-26T13:14:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "NBB CAIXA 2026/27 | Corinthians 78 x 48 Sesi Franca – Liga Nacional de Basquete",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHdxVGJDNE9tQWs3c0d5ejlQTWo3MFFzclBwTG9hdXlHcndpd3RDTlpUd3Z2ZXhUUzdzZktGa2FfTThlQnlucENoWjNJcVA1dXJ6VlVnOEptWUV6d3pldlFlMWM3enEtWWJFMVNQLWpFNERMbkVERVg0MEc4VVN4dE01M2c?oc=5",
-      "quando": "2026-10-26T12:45:00.000Z",
       "selo": null
     }
   ]
