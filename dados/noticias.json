@@ -1,61 +1,84 @@
 {
-  "atualizadoEm": "2026-11-16T21:37:20.698Z",
-  "destaque": null,
+  "atualizadoEm": "2026-11-17T20:26:35.918Z",
+  "destaque": {
+    "titulo": "Yago comanda e Flamengo derrota Paisas na estreia das quartas da Liga Sul-Americana – Liga Nacional de Basquete",
+    "fonte": "LNB",
+    "grupo": "oficial",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORHFkVDc1UDZJcDlkMG10ZnNoU0k4ZTZBV2QzNWExZ0xCX2ctQnNzLWtuRFpYZ1drYm9MYUFBWnJ5a1pvZFZxOVVhOHYwOWtUTFdGbElTT1VzbGx2Z2MyNldXdm8wakpmNF9sWUdKM3dCSGFGU0pDb0E0RDBCNmVxb1IxT09iU2dueFFnNktrRHFyRXpTQnVYMWxtSU5TVGRuWmRpQVRfbEtIRDVtQ1NTU3Z3?oc=5",
+    "quando": "2026-11-14T03:32:00.000Z",
+    "selo": "rio"
+  },
   "itens": [
+    {
+      "titulo": "Isa Koerich representa o Brasil no Basketball Without Borders Womens em Cingapura",
+      "fonte": "CBB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU05wMTllTGJrVWNwM1pEYWtNNndrTUt4anVkY3BMck5QRmFjSXlTSUNreWViREZJYXlpaG55RnhDRVVsNHplTnllQkFhM2lxY096dW1hUWpEUGdKMlR6dkFwM1V6WjRKYVB3VHNSMXFRU0lrYlN5aEJsMjg0ZG9EaWNhOEJHbWlvOXZ1TVlQQjJRcXpnekZ3cU5OZm84WlZHYWdCQ3hhVHVIOTV2UENOOVd4VQ?oc=5",
+      "quando": "2026-11-17T19:10:31.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "NBB CAIXA 2026/27 | Itatiaiuçu Cruzeiro x Basquete Cearense",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNejRrcnV5VGlqY3JWa1h6UDh3c1RjbExRb0Zhd0s1WWVUTE43VEVDMkxybWpkZUtsWmRqSGNTZmprNk93UERnUGU3SkUwMHg5alRuOEVjYTA2SGFDRVhOd19kR3kwTTNFb19XUVFFRlBfYWlZZUo5eDRCVjNfdWw0UHF1WFlWMDlGOWwwUHVUaw?oc=5",
+      "quando": "2026-11-17T11:04:39.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "São José Basketball 66 x 86 Mogi Basquete | Melhores Momentos | NBB CAIXA 26/27",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQclNzcm5XN1NrOW5vVUNQNHlfQXp1b05PekQxUmlkYUszOHI3RGFQVWhqRW1qODVwbVBmZ3VOa3duajFnVkY0c09QY19KVGpHbzgtVUhUdURKSy1SQ19ZclFESnQwc043U3pHZUtvMG1mNmlIN2cxeEVoZFFneS1QVGRHSW1yUDlkdUJoa1RsdEUzaW9SajdoRm5TMkZvNFA0MEZScQ?oc=5",
+      "quando": "2026-11-17T04:33:19.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "NBB CAIXA 2026/27: Georginho de Paula, do Mogi Basquete, é eleito o destaque da quarta semana",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN2YtT0VSeTE5YkRoc2x2QnZNUUtGQzdwSUNMaU9zcHRkQzJPbnNHSndCWkxHNGZwMjlINl9IcDFETkt4aHdOaFdwY19lbUFCelI2d0xEZzZuYWdOb0FnaW95R3M3XzRqMVhOSk5OcF82N3VqRmdHNkx2SlN0c0FzSTIwRXdGZnhkQUt5X2FMOWpaVG9DNEZIN3phaktIc054QlFJQ1NWX191anVmWWxxeHZfUUw4YjRsYUhr?oc=5",
+      "quando": "2026-11-16T18:43:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "NBB CAIXA 2026/27 | Itatiaiuçu Cruzeiro 73 x 77 Basquete Cearense",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHBMWE83SkFjNUxTVi05YW9od1BmZ1JpRTFJY1gtREdnQlBuNXZTVXpBdlpwYldWaDNrVGVoNVZzdi1yWHgwb19OTGZDUHN6cWN2R2JyMGhuQVlWcmUxZVczUVNaNS1QZjFJcXRxX0Z3d1N5NUtLd1lHZ2lMWTdYOVpQRTNETzhWLUNpVVg5THhuWExYLVpF?oc=5",
+      "quando": "2026-11-16T12:53:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "Minas Storm alcança seu melhor início na história do NBB CAIXA e consolida reformulação",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMjN6Smo0OGFJcHcwSVlaNV9NNGgxbU1aNGNzOEVYWHIxLThvaHpwNnBSVGp2Vi11bDRPQXBZMHc5clVQZnM4c0hDMmJnMUhwTnRGNFBQMnZsOTRlbGVndktqUzhVVGhDUzhmRGRtRnM0Q1BfUTE3UnVWOXBMN3dXdENKREt2T3puRm1mLTdEQVBhR2xvb2ZyRmVhbmEyTW9fTE9JYzNWTzY0MWNRNGo3MTljOElscjA?oc=5",
+      "quando": "2026-11-16T12:38:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "NBB CAIXA 2026/27 | São José 66 x 86 Mogi Basquete",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUkdBUFJMY1NtMlJjOVprcVdGelBwSm56ZG9MV0hlZEVMY3Nja3dBSlVtV2FuUlNjN2I1RmgwbS1lRWduTUVDSjNFeEVBblVLMncycHJoMjlGUzRycGUtcHpJa0wxbUpsLV8wRG1TOFZUUldnYl9QeHdmdnNNeGRZYm9kUQ?oc=5",
+      "quando": "2026-11-16T12:13:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "Onde assistir ao NBB CAIXA 2026/27: agenda de transmissões da semana – Liga Nacional de Basquete",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUjF4alc2QkhxdEZYbTJKRHZYeTY5LURVdTdtMzViSXhEQUVuNW5jZEl5NUJqQnJpdDBXMDhsNWFRYkFzeElKQzlIb3VTWk1FZU5FYmdOd3djSGFXN0Rxc2VVRXAwb1U0Z2g1bXlPMTUxZkNHOXNhV2tFN2Y4OGVYa1NPdXVYSXBpVUh4Smc0TVVjY0I1cXk2RXhvMjhrMjA?oc=5",
+      "quando": "2026-11-15T16:19:00.000Z",
+      "selo": null
+    },
     {
       "titulo": "CBB e Federações visitam obra do Centro de Excelência do Basquete Brasileiro em Nova Friburgo",
       "fonte": "CBB",
       "grupo": "oficial",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWNRcC1FdHhGVXZpSFZ2cms4QzYzMFUxMmZ5RG4zYlg0M2VwT2ZhLWxCeDlHWUtzdkt4azdTb29oRjFidWVfUjdiaXMtMkhGSmQwdDFfMDVjelFQdzc1R2pGc05nUi15RmdHQjlZcTVrNDFoVGQ1aC1JWWZCa3JiSHhxWW1sdDVCajk3N29pbm02NW5MdHh6M1A2VVBkUU1VQ2xpdDAyTUlwS1c5N0M0UllJeHE4UjgzN0NOODBhLWRRcG8?oc=5",
       "quando": "2026-11-15T15:02:05.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Histórias da CBB: Marlene Bento, a capitã que abriu caminhos para o basquete feminino brasileiro",
-      "fonte": "CBB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSUVtSWlhWS1ha2Q3OTJocjZYMERRQUVaaG9XVDFTSkxNTlNJMXN6TG9tX3ZzUzczWkNUb1lyWnM1Q0VILTBuOTA1VTZuSE1HMW11a0xRbnM2SE9OMUM2b3B2ZE5zWDRLSmF4M0RWMXBHWGVkMm1QNDUyNFExYV9LT19xN0daYXNBa3JRemM3SGZKOVNKZ2ZzejJZd19ZQmVmSk0zMWVDTDYxLUNmeFBQbDl2SHhkQk9ldktUM25uYWY5bU01?oc=5",
-      "quando": "2026-11-14T00:01:46.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "CBB disponibiliza novas regras do basquete e suas interpretações em português para download",
-      "fonte": "CBB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZGo2X2ZVSXFVMm82UGREM3ZiaXNCcUd0UldUNW03SWtyUDZxaUF3RndRcy1NSnVYOWJvSms2MW1KTjF0VzhfUnpVMm5kQVlYaE9temotanRNTTI2UGtWLW55cU9VcEQ3b05mM0wyZFBubkEtUXdwOUtUQU5IRGFyQ0ZSS3RZMGdpbklNbDItcFhjaVlXUXA1VFBxYzljV2F0VHUxRW9YSG9zQmVZdWp1MDZRbkltM0cyQ01QMVFTNkg?oc=5",
-      "quando": "2026-11-11T13:16:50.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Basquete: Ingressos à venda para os jogos do Brasil contra EUA e México pelas Eliminatórias da Copa do Mundo",
-      "fonte": "CBB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNFoxQWk3NzF4bzZERmJ2Qk9udE1IbjJaZFpzNW9ndUZzTmZyY3BYVGYtdUtlTktVdWVnNTUtcjE4LTFqUElJYldSMElGOW9vMVdRMnR2NHlWSmxURjlURC05TU9ocWFIMF81TVJ6bTQ2dHZ5RmNjVXpsaUM0bDgyOUs4ekVEUDFOblZybVpoZEdjMjNUajdVN0ZCY3VhMHZ4blBtTWxBVGd1ZjViRE1zTnRlMjNOTnRjVkdLMk45ampfZG02Z01hNHVfN3Q2aWNCWC02a29R?oc=5",
-      "quando": "2026-11-07T08:00:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "CBB encerra quarta etapa de Camp Sub-15 com jovens prospectos do basquete masculino",
-      "fonte": "CBB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWXZUbkNMUXE0UTYxS1FmekNPcG5Qc1NGNGpaU2dUcVY4eVAyV3RlWEVISXBrQ1ctMEZtVGtYd3hnMi02elpHcU40ZEwxS1hRa01QSTlfOU5yZkpEajVEZ053Ukxla3VNR1I5T1pnbVdvZ0R2Z3NzcGwyZFYxRlFJRGp1ZE9HRG0yUkJZWmlBVzZVZ0g3Zm9UZjVXN05kX3VjNFBMcHlwQ05wRmd5UXVZNnRWRHJoUQ?oc=5",
-      "quando": "2026-10-29T07:00:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Instituto Basquete Brasil ultrapassa 2 mil inscrições em programa gratuito de formação de treinadores de basquete",
-      "fonte": "CBB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb1BiNGo1SFlSY0Rtdm9acVhxbnZwT2dpN1UwN0FqOU9zS054Y24xTWVuTWpyRVhXZFIyYU5tb3dBaEtoTXF6ZHh5WGdOeHZMSG51OTNQZENCeDRac21GUU9qazhWUDRkWFpTWV8wdTI1dmVEUGJsOHNZclZmbjF3SGpfeFM3Q1J4NnlaTUREenJ5RWp1dWNwMVk2RTRzWnJlZjF5RUNweUx3YllzRXNTYm1Fb1JpdV96VkpXcjBtZDB4RFNSOHRhLVV6R2NzNUFlNncxeWRQSDJja2J4cXc?oc=5",
-      "quando": "2026-10-21T18:38:46.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Comentarista da NBA questiona demissão do Prime Video: \"Sequer participei\"",
-      "fonte": "CNN Brasil",
-      "grupo": "jornal",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdnFEenMwNVlzSXRfdzZMa3NkV2JhdkFWRHpoR3lkVGUyMWdoQW9JUmxIanRQSE1nd21WVG05WGVwUzlwTjVONkxxckZva0xDblpSZW81Zm1DcTBlUFVvczZheHNTcVVMVHZXQVdCUk9LaVVHTnhPa2lhcVFlNDRxWHBFMGE4aUNhX2tSYjZEckoyQVljdTBOVVJmN1gzYXFkSFcxRnJGMGhTSm9PLUR0a1p0Z2VBSFBFRWE0?oc=5",
-      "quando": "2026-10-19T07:00:00.000Z",
       "selo": null
     }
   ]
