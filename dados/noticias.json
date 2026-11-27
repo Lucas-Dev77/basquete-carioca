@@ -1,14 +1,38 @@
 {
-  "atualizadoEm": "2026-11-26T20:54:13.760Z",
+  "atualizadoEm": "2026-11-27T20:39:26.504Z",
   "destaque": {
-    "titulo": "NBB CAIXA 2026/27 | Basquete Cearense 66 x 92 Flamengo",
+    "titulo": "Liga Ouro 2026/27: Conheça o Fluminense – Liga Nacional de Basquete",
     "fonte": "LNB",
     "grupo": "oficial",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOG1sR3ExZUUtbnNyUlFvajNvbjJUNV9DU3hobmlnT19HQUp6dzFmMi1IaloyS3BwMEg1UkFRYzZFWE43WXA0V3ZwUDZ3ZnlKUDB1Wk03TnBJNDJhRVNqU1ZXOFBsU3o2OF9tTHpacFduelV6Zi1faTBHV3I5YUV5VnJaOVRFZjFZ?oc=5",
-    "quando": "2026-11-22T21:25:37.000Z",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pc21pVC1QWUoyWVRFY3cwUUtPaVJXU2JKd1hGT2wyU25Cbl9nVW5fYkN2TlUzWWQxTmxBZDhKWXNLdVFrS3h4Ymd0bUI0SU5JZVVzR3M1T0lIMEpXYnY1azU1RzZwNzZMZHpsY0lYemJqdzhGQ2c?oc=5",
+    "quando": "2026-11-27T17:20:00.000Z",
     "selo": "rio"
   },
   "itens": [
+    {
+      "titulo": "Anderson Rodrigues reforça Mogi Basquete no NBB CAIXA após deixar Bauru Basket neste ano",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUWo0aFdoWV9QYlZ6MVR0Z2lBVS1xQ0YyR19jeUVmWXZsM3p3YjVxY0x3NmVPOUtlMURVY3hjTWNiRkdMaXF0aV82QmZZdG1mbTFGcVJRbjBIeGg3b0lucW91VF9JSlJaTFphaERiaVJWai1vSzA2Y0g2aFA2T291emlnX2kzUFJTVlhhUDF6VVFMZDlRLWMxVDl4X0xPZTl0c1paLXJHcmhHZGxlNmNmYm5VTUk2Q2Zq?oc=5",
+      "quando": "2026-11-27T16:32:00.000Z",
+      "selo": null
+    },
+    {
+      "titulo": "Bauru Basket fecha contratação do pivô Lucas Doria, ex-Flamengo e Paulistano, para o NBB CAIXA",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ093LVZWbXhUVEtDMDcwM1VhYTBYWHdBd3JZTGNFV2tCWWh6NzREcmNDN2UwTV9wWjF0ZmtETlVsMlFDeEFjMklFRFZ2bVU3U3RRdmt1ZUx2OVAzYUNPZnNHSHowR0pTY3BaREJIZkY0a19jblFaZHFhOUJaa3N4OWplUnE3TlJGNjVNTmZ2ZDhXTUszX09LTUxDNkJzWG5FSFpoRW9aYzA2MDB3eVlTUXFUcm9odHRsUUZJSjdn?oc=5",
+      "quando": "2026-11-27T15:06:00.000Z",
+      "selo": "rio"
+    },
+    {
+      "titulo": "Liga Ouro 2026/27: Conheça o Olympico Club – Liga Nacional de Basquete",
+      "fonte": "LNB",
+      "grupo": "oficial",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42WENIX1BsUWczcjJIUHFIdG9MS0ZZOXhQRy1OUElOZGtCcGg1N1RzNXJWSFkzcDl6M3RWQ0xRc043bnhibDhtS2h0RV81bWFJaFJyRTd2ektpbjJoZ1VJaENrZVZFckZjRDdhVDVPTjc2SGVRcEk0WENn?oc=5",
+      "quando": "2026-11-27T15:00:00.000Z",
+      "selo": null
+    },
     {
       "titulo": "Liga Ouro 2026/27: Conheça o Basquete Assis",
       "fonte": "LNB",
@@ -55,30 +79,6 @@
       "grupo": "jornal",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2tkS0Z2a21NYU9KZ3BpZEpKOHN4TTFKUTRnd3EtNFBRMVRaM3hJSmJvX01FLTdiRnJJODFjdTB3WDNTVnQ3SVoxMjdMcjFlNnlMek9hdWctQlFEU2pxMm1mN1NkcXZ0MFBtUE96QTRWV0tCMm1GbEl3MlhNa2VzeUNFaWgxeWZVU052OGpBUkgtUTBxQnVsQjZaeG01ZXFDNEt1VlFFdl8zcHI5MkMzYjRTSTNxMjViYjBEVTN2aExscFVHR1MxeDIyb9IB0AFBVV95cUxNVjNVSUs2N1lWaVlFUDZncWR5eHQwV2ZVNkNaSThGT3Z4RFU5VlVtTG5pejVGMkpEeTZhb0xaeVpqdzJSOXlmXzlmN0hoWEtoeXlDSzJncWZRNGpSUzBQUkw5SFNLYVFDZkFMcFdmelA5ZVJYQmtvSER2MndhM0J6MFV0cGdlNkhFeDJSRWh5bVR1OVU2UE1xbXFlRVhRcUdndENZUzY4LVdzQmZWdDl6MlhuM2pLZ1BIcndyYVlqQU1LLURCSVdueDcwZmEyMWk3?oc=5",
       "quando": "2026-11-25T21:15:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Gui Deodato celebra reencontro com a Seleção no Ibirapuera após retomada no NBB CAIXA em Franca",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWnBHOVozTEh1SWVfZTcySk80UE55WThRb2cyQTlzel96Tk5sVHkzTTEyTEdkOG0yQW5uSV9LdjBRek5TVXZWRTdDYV9FZzNwejlFbDR0d3p3eDUyd1BJaGJweGJ0TlFrZ3FHcGlxdGVGc0FjS0prSG84XzkzdFMzODd2Y1FvTkhNUldhRkJ4N3A1UjJsbnpsQUhaZk81UkxzUGlfS21pNjY4UzVGYmVmVXRnbFZ6WGNGNDNGTmVvd280QQ?oc=5",
-      "quando": "2026-11-25T13:57:00.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Tiago Splitter ganha documentário da NBA como 1º técnico brasileiro da liga",
-      "fonte": "CNN Brasil",
-      "grupo": "jornal",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcURnWFhOWTR3WGViQTFVeVNlSURWZFk1b3ZDNURJbGpKa0hMLTFGYmhDMjNiLTJJQ1RIZXZfeHdBZFBJSEE5b0g5bkk0bnJSRjZaZlptZTcxWnRYdmpLMndiUVVQbkljMFpFUWlWa0dVVmQ0cDFVeWZrUmVXT2g3S0xHR29wTnlaRFFPX1ZvQ1M4QVljcURNZXhPWHp5elllWnkxdEF6Y01WYmxLNnhmM2pELURxQk1nZkRWdkJ5VHY?oc=5",
-      "quando": "2026-11-25T13:18:47.000Z",
-      "selo": null
-    },
-    {
-      "titulo": "Liga Ouro 2026/27: Conheça o Conta Simples Rio Claro – Liga Nacional de Basquete",
-      "fonte": "LNB",
-      "grupo": "oficial",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVm9fejBGN3hXVm5BU05JeUJyYVZEM0V3X25Ed0staTdNZ0lnZnlyTFR3TmZRT1VoWlBEZTBHVklvc3gtNnFLSmdvUExNZml6YXZsanhwTHpobGl2MVV2RUp6UWluS1RkTUd6c200V2lfMGxNd2dBN2hUVTJWeXVTczUtaDl0S0k?oc=5",
-      "quando": "2026-11-24T18:33:00.000Z",
       "selo": null
     }
   ]
